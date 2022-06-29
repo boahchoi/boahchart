@@ -3,12 +3,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-29T08:06:13.31482514Z"
+    created: "2022-06-29T08:40:25.121151635Z"
     description: A Helm chart for Kubernetes
     digest: 81f6884e2f7a933de9b25f56061c0793f3c40000302f90212bf8b5d926cce295
-    name: boahchart
+    name: test
     type: application
     urls:
-    - test-0.1.0.tgz
+    - boahchart/test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-29T08:06:13.314040275Z"
+generated: "2022-06-29T08:40:25.120322839Z"
